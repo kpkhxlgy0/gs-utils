@@ -1,4 +1,4 @@
-package gs_utils
+package utils
 
 import (
 	"time"
