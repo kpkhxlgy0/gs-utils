@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 
 	etcdclient "github.com/coreos/etcd/client"
-	log "github.com/gonet2/libs/nsq-logger"
+	log "github.com/kpkhxlgy0/gs_libs/nsq-logger"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
