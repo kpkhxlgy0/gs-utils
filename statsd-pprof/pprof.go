@@ -2,11 +2,12 @@ package statsdprof
 
 import (
 	"fmt"
-	log "github.com/gonet2/libs/nsq-logger"
-	"github.com/peterbourgon/g2s"
 	"os"
 	"runtime"
 	"time"
+
+	log "github.com/kpkhxlgy0/gs_libs/nsq-logger"
+	"github.com/peterbourgon/g2s"
 )
 
 const (

@@ -1,9 +1,10 @@
 package utils
 
 import (
-	"github.com/davecgh/go-spew/spew"
-	log "github.com/gonet2/libs/nsq-logger"
 	"runtime"
+
+	"github.com/davecgh/go-spew/spew"
+	log "github.com/kpkhxlgy0/gs_libs/nsq-logger"
 )
 
 // 产生panic时的调用栈打印
